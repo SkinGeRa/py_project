@@ -1,3 +1,3 @@
-from funcs import sum_count
+from funcs import subtraction
 
-print(sum_count())
+print(subtraction())
